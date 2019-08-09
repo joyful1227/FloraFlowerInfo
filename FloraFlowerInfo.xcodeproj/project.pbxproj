@@ -13,6 +13,32 @@
 		A841752022FD5D1D00A063BF /* FloraFlowerInfo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A841751E22FD5D1D00A063BF /* FloraFlowerInfo.xcdatamodeld */; };
 		A841752222FD5D2000A063BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A841752122FD5D2000A063BF /* Assets.xcassets */; };
 		A841752522FD5D2000A063BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A841752322FD5D2000A063BF /* LaunchScreen.storyboard */; };
+		A842FD6822FDA610007749E8 /* Box1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD6722FDA610007749E8 /* Box1ViewController.swift */; };
+		A842FD6A22FDA620007749E8 /* Box2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD6922FDA620007749E8 /* Box2ViewController.swift */; };
+		A842FD6C22FDA63A007749E8 /* Box3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD6B22FDA63A007749E8 /* Box3ViewController.swift */; };
+		A842FD7022FDB5E7007749E8 /* Card1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD6F22FDB5E7007749E8 /* Card1ViewController.swift */; };
+		A842FD7222FDB5FA007749E8 /* Card2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD7122FDB5FA007749E8 /* Card2ViewController.swift */; };
+		A842FD7422FDB609007749E8 /* Card3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD7322FDB609007749E8 /* Card3ViewController.swift */; };
+		A842FD7622FDB618007749E8 /* Card4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD7522FDB618007749E8 /* Card4ViewController.swift */; };
+		A842FD7822FDB62B007749E8 /* Card5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD7722FDB62B007749E8 /* Card5ViewController.swift */; };
+		A842FD8022FDBA8E007749E8 /* Can2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD7F22FDBA8E007749E8 /* Can2ViewController.swift */; };
+		A842FD8222FDBA98007749E8 /* Can3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8122FDBA98007749E8 /* Can3ViewController.swift */; };
+		A842FD8422FDBAA4007749E8 /* Can4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8322FDBAA4007749E8 /* Can4ViewController.swift */; };
+		A842FD8622FDBC4A007749E8 /* Graduation1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8522FDBC4A007749E8 /* Graduation1ViewController.swift */; };
+		A842FD8822FDBC59007749E8 /* Graduation2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8722FDBC59007749E8 /* Graduation2ViewController.swift */; };
+		A842FD8A22FDBC63007749E8 /* Graduation3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8922FDBC63007749E8 /* Graduation3ViewController.swift */; };
+		A842FD8C22FDBC6E007749E8 /* Graduation4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8B22FDBC6E007749E8 /* Graduation4ViewController.swift */; };
+		A842FD8E22FDBC78007749E8 /* Graduation5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD8D22FDBC78007749E8 /* Graduation5ViewController.swift */; };
+		A842FD9322FDC1AF007749E8 /* AM1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9222FDC1AF007749E8 /* AM1ViewController.swift */; };
+		A842FD9522FDC1BC007749E8 /* AM2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9422FDC1BC007749E8 /* AM2ViewController.swift */; };
+		A842FD9722FDC1CE007749E8 /* AM3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9622FDC1CE007749E8 /* AM3ViewController.swift */; };
+		A842FD9922FDC1DA007749E8 /* AM4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9822FDC1DA007749E8 /* AM4ViewController.swift */; };
+		A842FD9B22FDC1E9007749E8 /* AM5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9A22FDC1E9007749E8 /* AM5ViewController.swift */; };
+		A842FD9D22FDC5B4007749E8 /* FaceBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FD9C22FDC5B4007749E8 /* FaceBookViewController.swift */; };
+		A842FDA022FDC7BC007749E8 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A842FD9F22FDC7BC007749E8 /* WebKit.framework */; };
+		A842FDA222FDC825007749E8 /* InsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FDA122FDC825007749E8 /* InsViewController.swift */; };
+		A842FDA422FDC91A007749E8 /* LineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FDA322FDC91A007749E8 /* LineViewController.swift */; };
+		A842FDA622FDCAD9007749E8 /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A842FDA522FDCAD9007749E8 /* ContactUsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +50,32 @@
 		A841752122FD5D2000A063BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A841752422FD5D2000A063BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A841752622FD5D2000A063BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A842FD6722FDA610007749E8 /* Box1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box1ViewController.swift; sourceTree = "<group>"; };
+		A842FD6922FDA620007749E8 /* Box2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box2ViewController.swift; sourceTree = "<group>"; };
+		A842FD6B22FDA63A007749E8 /* Box3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box3ViewController.swift; sourceTree = "<group>"; };
+		A842FD6F22FDB5E7007749E8 /* Card1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card1ViewController.swift; sourceTree = "<group>"; };
+		A842FD7122FDB5FA007749E8 /* Card2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card2ViewController.swift; sourceTree = "<group>"; };
+		A842FD7322FDB609007749E8 /* Card3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card3ViewController.swift; sourceTree = "<group>"; };
+		A842FD7522FDB618007749E8 /* Card4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card4ViewController.swift; sourceTree = "<group>"; };
+		A842FD7722FDB62B007749E8 /* Card5ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card5ViewController.swift; sourceTree = "<group>"; };
+		A842FD7F22FDBA8E007749E8 /* Can2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Can2ViewController.swift; sourceTree = "<group>"; };
+		A842FD8122FDBA98007749E8 /* Can3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Can3ViewController.swift; sourceTree = "<group>"; };
+		A842FD8322FDBAA4007749E8 /* Can4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Can4ViewController.swift; sourceTree = "<group>"; };
+		A842FD8522FDBC4A007749E8 /* Graduation1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graduation1ViewController.swift; sourceTree = "<group>"; };
+		A842FD8722FDBC59007749E8 /* Graduation2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graduation2ViewController.swift; sourceTree = "<group>"; };
+		A842FD8922FDBC63007749E8 /* Graduation3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graduation3ViewController.swift; sourceTree = "<group>"; };
+		A842FD8B22FDBC6E007749E8 /* Graduation4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graduation4ViewController.swift; sourceTree = "<group>"; };
+		A842FD8D22FDBC78007749E8 /* Graduation5ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graduation5ViewController.swift; sourceTree = "<group>"; };
+		A842FD9222FDC1AF007749E8 /* AM1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AM1ViewController.swift; sourceTree = "<group>"; };
+		A842FD9422FDC1BC007749E8 /* AM2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AM2ViewController.swift; sourceTree = "<group>"; };
+		A842FD9622FDC1CE007749E8 /* AM3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AM3ViewController.swift; sourceTree = "<group>"; };
+		A842FD9822FDC1DA007749E8 /* AM4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AM4ViewController.swift; sourceTree = "<group>"; };
+		A842FD9A22FDC1E9007749E8 /* AM5ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AM5ViewController.swift; sourceTree = "<group>"; };
+		A842FD9C22FDC5B4007749E8 /* FaceBookViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceBookViewController.swift; sourceTree = "<group>"; };
+		A842FD9F22FDC7BC007749E8 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		A842FDA122FDC825007749E8 /* InsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsViewController.swift; sourceTree = "<group>"; };
+		A842FDA322FDC91A007749E8 /* LineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineViewController.swift; sourceTree = "<group>"; };
+		A842FDA522FDCAD9007749E8 /* ContactUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A842FDA022FDC7BC007749E8 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +95,7 @@
 			children = (
 				A841751622FD5D1D00A063BF /* FloraFlowerInfo */,
 				A841751522FD5D1D00A063BF /* Products */,
+				A842FD9E22FDC7BC007749E8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +110,88 @@
 		A841751622FD5D1D00A063BF /* FloraFlowerInfo */ = {
 			isa = PBXGroup;
 			children = (
+				A842FD7C22FDBA75007749E8 /* Graduation */,
 				A841751722FD5D1D00A063BF /* AppDelegate.swift */,
 				A841751922FD5D1D00A063BF /* ViewController.swift */,
 				A841751B22FD5D1D00A063BF /* Main.storyboard */,
+				A842FDA522FDCAD9007749E8 /* ContactUsViewController.swift */,
+				A842FDA322FDC91A007749E8 /* LineViewController.swift */,
+				A842FDA122FDC825007749E8 /* InsViewController.swift */,
+				A842FD9C22FDC5B4007749E8 /* FaceBookViewController.swift */,
+				A842FD9122FDC197007749E8 /* AM */,
+				A842FD7B22FDBA6A007749E8 /* Can */,
+				A842FD6E22FDAA90007749E8 /* Card */,
+				A842FD6D22FDA645007749E8 /* Box */,
 				A841752122FD5D2000A063BF /* Assets.xcassets */,
 				A841752322FD5D2000A063BF /* LaunchScreen.storyboard */,
 				A841752622FD5D2000A063BF /* Info.plist */,
 				A841751E22FD5D1D00A063BF /* FloraFlowerInfo.xcdatamodeld */,
 			);
 			path = FloraFlowerInfo;
+			sourceTree = "<group>";
+		};
+		A842FD6D22FDA645007749E8 /* Box */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD6722FDA610007749E8 /* Box1ViewController.swift */,
+				A842FD6922FDA620007749E8 /* Box2ViewController.swift */,
+				A842FD6B22FDA63A007749E8 /* Box3ViewController.swift */,
+			);
+			path = Box;
+			sourceTree = "<group>";
+		};
+		A842FD6E22FDAA90007749E8 /* Card */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD6F22FDB5E7007749E8 /* Card1ViewController.swift */,
+				A842FD7122FDB5FA007749E8 /* Card2ViewController.swift */,
+				A842FD7322FDB609007749E8 /* Card3ViewController.swift */,
+				A842FD7522FDB618007749E8 /* Card4ViewController.swift */,
+				A842FD7722FDB62B007749E8 /* Card5ViewController.swift */,
+			);
+			path = Card;
+			sourceTree = "<group>";
+		};
+		A842FD7B22FDBA6A007749E8 /* Can */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD7F22FDBA8E007749E8 /* Can2ViewController.swift */,
+				A842FD8122FDBA98007749E8 /* Can3ViewController.swift */,
+				A842FD8322FDBAA4007749E8 /* Can4ViewController.swift */,
+			);
+			path = Can;
+			sourceTree = "<group>";
+		};
+		A842FD7C22FDBA75007749E8 /* Graduation */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD8522FDBC4A007749E8 /* Graduation1ViewController.swift */,
+				A842FD8722FDBC59007749E8 /* Graduation2ViewController.swift */,
+				A842FD8922FDBC63007749E8 /* Graduation3ViewController.swift */,
+				A842FD8B22FDBC6E007749E8 /* Graduation4ViewController.swift */,
+				A842FD8D22FDBC78007749E8 /* Graduation5ViewController.swift */,
+			);
+			path = Graduation;
+			sourceTree = "<group>";
+		};
+		A842FD9122FDC197007749E8 /* AM */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD9222FDC1AF007749E8 /* AM1ViewController.swift */,
+				A842FD9422FDC1BC007749E8 /* AM2ViewController.swift */,
+				A842FD9622FDC1CE007749E8 /* AM3ViewController.swift */,
+				A842FD9822FDC1DA007749E8 /* AM4ViewController.swift */,
+				A842FD9A22FDC1E9007749E8 /* AM5ViewController.swift */,
+			);
+			path = AM;
+			sourceTree = "<group>";
+		};
+		A842FD9E22FDC7BC007749E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A842FD9F22FDC7BC007749E8 /* WebKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +265,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A842FD6A22FDA620007749E8 /* Box2ViewController.swift in Sources */,
+				A842FD6822FDA610007749E8 /* Box1ViewController.swift in Sources */,
+				A842FD9922FDC1DA007749E8 /* AM4ViewController.swift in Sources */,
 				A841751A22FD5D1D00A063BF /* ViewController.swift in Sources */,
+				A842FD7422FDB609007749E8 /* Card3ViewController.swift in Sources */,
+				A842FD8422FDBAA4007749E8 /* Can4ViewController.swift in Sources */,
+				A842FD8622FDBC4A007749E8 /* Graduation1ViewController.swift in Sources */,
+				A842FD9522FDC1BC007749E8 /* AM2ViewController.swift in Sources */,
+				A842FDA422FDC91A007749E8 /* LineViewController.swift in Sources */,
+				A842FD8022FDBA8E007749E8 /* Can2ViewController.swift in Sources */,
 				A841751822FD5D1D00A063BF /* AppDelegate.swift in Sources */,
+				A842FD8222FDBA98007749E8 /* Can3ViewController.swift in Sources */,
+				A842FD8822FDBC59007749E8 /* Graduation2ViewController.swift in Sources */,
+				A842FD6C22FDA63A007749E8 /* Box3ViewController.swift in Sources */,
+				A842FD7822FDB62B007749E8 /* Card5ViewController.swift in Sources */,
+				A842FD7022FDB5E7007749E8 /* Card1ViewController.swift in Sources */,
+				A842FDA222FDC825007749E8 /* InsViewController.swift in Sources */,
+				A842FD9722FDC1CE007749E8 /* AM3ViewController.swift in Sources */,
+				A842FD9D22FDC5B4007749E8 /* FaceBookViewController.swift in Sources */,
+				A842FD8C22FDBC6E007749E8 /* Graduation4ViewController.swift in Sources */,
+				A842FD7622FDB618007749E8 /* Card4ViewController.swift in Sources */,
+				A842FD8A22FDBC63007749E8 /* Graduation3ViewController.swift in Sources */,
+				A842FD9322FDC1AF007749E8 /* AM1ViewController.swift in Sources */,
+				A842FDA622FDCAD9007749E8 /* ContactUsViewController.swift in Sources */,
+				A842FD9B22FDC1E9007749E8 /* AM5ViewController.swift in Sources */,
+				A842FD8E22FDBC78007749E8 /* Graduation5ViewController.swift in Sources */,
 				A841752022FD5D1D00A063BF /* FloraFlowerInfo.xcdatamodeld in Sources */,
+				A842FD7222FDB5FA007749E8 /* Card2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +441,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PY8GD98FSY;
 				INFOPLIST_FILE = FloraFlowerInfo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,6 +460,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PY8GD98FSY;
 				INFOPLIST_FILE = FloraFlowerInfo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
